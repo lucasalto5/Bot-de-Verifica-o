@@ -1,0 +1,18 @@
+# Funcionalidades do Bot de Verificação
+- Modos de Verificação:
+-# Manual: Usuário seleciona um código correto para ser verificado.
+-# Automático: O cargo é atribuído instantaneamente. Somente digitando !verificacao 
+- Painel Administrativo:
+-# Ativar/desativar logs e configurar canal de registros.
+-# Escolher o modo de verificação.
+-# Banir/desbanir usuários da verificação.
+- Segurança:
+-# Bloqueio de 5 minutos após duas tentativas erradas.
+-# Sistema de banimento para impedir verificações.
+- Comandos:
+-# !verificacao → Inicia a verificação/verifica.
+-# !vpainel → Abre o painel administrativo.
+- Extras:
+-# Interface com botões e menus interativos.
+-# Atualização automática do painel.
+-# Mensagens personalizadas com imagens.
